@@ -5,17 +5,15 @@ Welcome candidate and thank you for taking the time to complete the take-home ch
 
 This should take around 4-6 hours. Once you have completed your solution, please reply with a link to a github repository and the website where your application has been deployed. In case the repository is private, please grant access by adding the github user pd-recruiting-frontend as a collaborator.
 
-The goal of this challenge is to rebuild the jobs page for the company. Please clone this repository and submit it once you are finished.
+The goal of this challenge is to rebuild the jobs page for our company. Please clone this repository and submit it once you are finished.
 
 Here are the rules of this challenge... you must:
 
     Build an application that displays a list of open job positions - grouped by teams (Product engineering, Go-to-market, etc).
-    Use the React useEffect hook to fetch the jobs data from the Lever API, and save it to state by using the React useState hook. You can access all job postings via GET request to https://api.lever.co/v0/postings/paralleldomain?mode=json.
     Display a loading state while the data is being fetched. You can use the CircularProgress component.
     Add select fields for location, teams and work type and store the active values by using the React useState hook. The dropdown options should be populated dynamically based on the available jobs. Once the user selects one or multiple options, the visible job postings should be filtered accordingly.
     Add a banner component to the top of the page. You can access the image here src/images/banner.jpeg.
     Make the layout fully responsive.
-    Follow the design language of the Parallel Domain website.
 
 Important: You don't need to develop the jobs single page in this challenge. Instead, let the apply button link directly to the Lever page (e.g. Frontend Engineer). Furthermore, you can ignore fonts, footer and the header menu.
 What we want to see
