@@ -23,7 +23,7 @@ What we want to see
     Utilize CSS to create the layout of the page
     Create components as you feel is best suited for your solution
 
-Bonus points
+# Bonus points
 
 Apply a new design to the jobs page 🙌
 Styling Guidelines
@@ -49,5 +49,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
-
-See the section about deployment for more information.
