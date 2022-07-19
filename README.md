@@ -1,7 +1,7 @@
 # Take Home Test (Job Page)
 
 
-Welcome candidate and thank you for taking the time to complete the take-home challenge for our frontend engineer position.
+Welcome candidate and thank you for taking the time to complete the take-home challenge for our web developer position.
 
 This should take around 4-6 hours. Once you have completed your solution, please reply with a link to a github repository and the website where your application has been deployed. In case the repository is private, please grant access by adding the github user pd-recruiting-frontend as a collaborator.
 
