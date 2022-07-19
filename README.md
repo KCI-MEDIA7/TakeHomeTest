@@ -5,7 +5,7 @@ Welcome candidate and thank you for taking the time to complete the take-home ch
 
 This should take around 4-6 hours. Once you have completed your solution, please reply with a link to a github repository and the website where your application has been deployed. In case the repository is private, please grant access by adding the github user pd-recruiting-frontend as a collaborator.
 
-The goal of this challenge is to rebuild the Parallel Domain jobs page. Please clone this repository and submit it once you are finished.
+The goal of this challenge is to rebuild the jobs page for the company. Please clone this repository and submit it once you are finished.
 
 Here are the rules of this challenge... you must:
 
@@ -34,8 +34,7 @@ We're using the Material UI design library behind the scenes to speed up the dev
 
 If you are more familiar with other styling methods such as CSS-in-JS libraries (emotion is installed) or CSS/SCSS stylesheets, it's totally fine to use those instead.
 
-Good luck and if you have questions, please reach out to us at robin@paralleldomain.com
-Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 npm start
